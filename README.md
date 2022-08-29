@@ -18,3 +18,6 @@ On the server side parsing is the important part that developers want if the par
 
 Objects align in code
 JSON objects and code objects match, which is beneficial when quickly creating domain objects in dynamic languages.
+
+
+This project was released on 29/08/2022.
